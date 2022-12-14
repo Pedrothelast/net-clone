@@ -1,0 +1,5 @@
+let api_key = "a4cf6f1139bef1193307997205fdb01b"
+let img_url = "https://image.tmdb.org/t/p/w500"
+let genres_list_http = "https://api.themoviedb.org/3/genre/movie/list?"
+let movie_genres_http = "https://api.themoviedb.org/3/discover/movie?"
+let movie_details_http = "https://api.themoviedb.org/3/movie/{movie_id}?"
